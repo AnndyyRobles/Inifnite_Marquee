@@ -1,3 +1,3 @@
 # Infinite Marquee
 
-![Infinite Marquee](./SliderfPro.png)
+![Infinite Marquee](./SliderPro.png)
